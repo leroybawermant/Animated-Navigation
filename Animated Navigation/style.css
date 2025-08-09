@@ -12,7 +12,14 @@ body {
   height: 100vh;
   margin: 0;
 }
-
+body {
+  font-family: sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
 nav {
   background: #fff;
   padding: 20px;
